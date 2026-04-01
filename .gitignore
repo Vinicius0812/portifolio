@@ -1,0 +1,22 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local env
+.env
+.env.*
+
+# Node (caso o projeto evolua)
+node_modules/
+dist/
+build/
+coverage/
+
+# Temporary
+*.tmp
+*.temp
