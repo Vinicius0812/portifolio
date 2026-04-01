@@ -1,4 +1,4 @@
-# portifolio
+# portfolio
 
 Base inicial do portfólio pessoal de Vinícius Araújo.
 
